@@ -9,7 +9,7 @@ Class Student
     STUDENTS<<self
   end
 
-  def self.all 
+  def self.all
     STUDENTS
   end
 
